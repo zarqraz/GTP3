@@ -1,0 +1,11 @@
+pandas
+xlrd # data is in excel format
+openpyxl
+numpy
+scikit-learn
+omegaconf
+pytest
+tensorflow
+mlflow
+typer
+tqdm
